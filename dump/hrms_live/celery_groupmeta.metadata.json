@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"date_done":{"$numberInt":"1"}},"name":"date_done_1","background":true}],"uuid":"bb15eb41ce58443facaeed8282f8dadf","collectionName":"celery_groupmeta","type":"collection"}

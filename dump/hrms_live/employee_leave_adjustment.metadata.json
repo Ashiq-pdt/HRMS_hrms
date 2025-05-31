@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"a3b28f1c2af24fcaafb193bba9d1f74e","collectionName":"employee_leave_adjustment","type":"collection"}

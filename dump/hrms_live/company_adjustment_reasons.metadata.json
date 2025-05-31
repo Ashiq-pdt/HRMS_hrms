@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"8821973a5bf8482e8602b758fdd5cfe5","collectionName":"company_adjustment_reasons","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"f6a2c7e7a6d04f6f9016e1d125fc6d60","collectionName":"company_time_off_adjustment","type":"collection"}

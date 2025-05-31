@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"7e775a2c565d4e93a72d11a3ef51a332","collectionName":"company_leave_approvers","type":"collection"}
